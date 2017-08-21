@@ -1,0 +1,24 @@
+﻿  HelloWorldBidirectionService_client.cpp
+d:\boost\boost_1_64_0\boost\atomic\detail\bitwise_cast.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+libthrift.lib(TConcurrentClientSyncInfo.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TConcurrentClientSyncInfo.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(BoostMonitor.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(BoostMonitor.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(BoostMutex.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(BoostMutex.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(StdThreadFactory.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(StdThreadFactory.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(ThreadManager.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(ThreadManager.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(Util.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(Util.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TProtocol.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TProtocol.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TConnectedClient.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TConnectedClient.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TServerFramework.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TServerFramework.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TThreadPoolServer.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TThreadPoolServer.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TApplicationException.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TApplicationException.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TOutput.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TOutput.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TBufferTransports.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TBufferTransports.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TServerSocket.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TServerSocket.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TSocket.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TSocket.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TTransportException.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TTransportException.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(GetTimeOfDay.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(GetTimeOfDay.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(SocketPair.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(SocketPair.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(TWinsockSingleton.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(TWinsockSingleton.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libthrift.lib(WinFcntl.obj) : warning LNK4099: 未找到 PDB“libthrift.pdb”(使用“libthrift.lib(WinFcntl.obj)”或在“D:\sample\Thrift_Cpp_CSharp_Demo\Debug\libthrift.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Thrift_HelloWorld_Cpp_Bidirection.vcxproj -> D:\sample\Thrift_Cpp_CSharp_Demo\Debug\Thrift_HelloWorld_Cpp_Bidirection.exe
+  Thrift_HelloWorld_Cpp_Bidirection.vcxproj -> D:\sample\Thrift_Cpp_CSharp_Demo\Debug\Thrift_HelloWorld_Cpp_Bidirection.pdb (Full PDB)
